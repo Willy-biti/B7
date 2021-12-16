@@ -1,0 +1,12 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 500px;
+    height: 500px;
+    border: 3px solid red ;
+    overflow: auto;
+    background-color: rgb(196, 210, 211);
+}
